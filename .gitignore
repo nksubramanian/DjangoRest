@@ -1,2 +1,5 @@
 .idea/
-myproject/
+
+myproject/webapp/__pycache__/
+myproject/myproject/__pycache__/
+myproject/webapp/migrations/__pycache__/
